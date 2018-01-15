@@ -1,5 +1,7 @@
 keras原文在https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 
+另外一个例子http://www.codesofinterest.com/2017/08/bottleneck-features-multi-class-classification-keras.html
+
 本文会通过 Keras 搭建一个深度卷积神经网络来识别一张图片是猫还是狗，在验证集上的准确率可以达到99.6%，建议使用显卡来运行该项目。本项目使用的 Keras 版本是1.2.2。如果你使用的是更高级的版本，可能会稍有参数变化。
 
 # 猫狗大战
